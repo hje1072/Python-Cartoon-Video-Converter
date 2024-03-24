@@ -74,9 +74,6 @@ https://github.com/hje1072/Python-Cartoon-Video-Converter/assets/71210590/1f6b2c
 
 
 
-
-
-
  
 
 
