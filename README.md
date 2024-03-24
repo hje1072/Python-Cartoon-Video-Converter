@@ -52,6 +52,7 @@ https://github.com/hje1072/Python-Cartoon-Video-Converter/assets/71210590/1f6b2c
 
 * * *
 * * *
-
+내가 구현한 알고리즘의 한계점
+--------------------------
 
 
